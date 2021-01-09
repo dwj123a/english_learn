@@ -1,6 +1,5 @@
-# english_learn
-study english
----  
+# english_learn  
+
 ## 句型的种类  
 + 陈述句  
 + 疑问句  
@@ -9,3 +8,16 @@ study english
   + 特殊疑问句  
   > 特殊疑问词 + 一般疑问句的句子  
   ---  
+  
+## 句型  
+  > 主语 + 系动词 + 表语  
+  + be动词  
+    ```  
+    is  
+    are  
+    am  
+    ``` 
+  + 助动词  
+    + do 一般  
+    + does  单数第三人称  
+
