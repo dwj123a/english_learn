@@ -20,4 +20,12 @@
   + 助动词  
     + do 一般  
     + does  单数第三人称  
-
+ 
++ 人称代词  
+  + 单数人称  
+    > 主格 ： **i you he/her/it**  
+    > 宾格 ： **me you him/her/it**  
+  + 复数人称  
+    > 主格 ：**we your they**  
+    > 宾格 ：**us your them**  
+  
