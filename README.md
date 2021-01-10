@@ -28,7 +28,12 @@
   + 复数人称  
     > 主格 ：**we your they**  
     > 宾格 ：**us your them**  
-  
++ 名词性物主代词  
+  + 单数  
+    > mine  yours  his/hers/its  
+  + 复数  
+    > ours  yours  theirs  
+    
 ## 特殊疑问词  
 ```  
 where  when  who（谁）  what（什么）  how（怎样）  which  
@@ -57,36 +62,20 @@ where  when  who（谁）  what（什么）  how（怎样）  which
       > 常见情态动词有：can\could, must, will\would, need(需要)  
 
 ---  
++ how many···(可数)  
++ how much···(不可数)  
 
-    
+> in the wall (内在)  
+> on the wall (外在)  
 
+> from time to time (不时偶尔)  
+> night and day (夜以继日)  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
-
-
-
-
-
-
-
-
-
-
+```  
+pay back (还钱)
+give back (还给)
+go back (回去)
+```  
 
 
 
