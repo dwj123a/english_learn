@@ -26,8 +26,8 @@
     > 主格 ： **i you he/her/it**  
     > 宾格 ： **me you him/her/it**  
   + 复数人称  
-    > 主格 ：**we your they**  
-    > 宾格 ：**us your them**  
+    > 主格 ：**we you they**  
+    > 宾格 ：**us you them**  
 + 名词性物主代词  
   + 单数  
     > mine  yours  his/hers/its  
